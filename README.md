@@ -1,3 +1,7 @@
+
+#This is a MERN Inventory app , you can check this from https://inventory-94e21.web.app/
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
